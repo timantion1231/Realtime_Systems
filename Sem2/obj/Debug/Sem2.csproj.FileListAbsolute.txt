@@ -1,0 +1,11 @@
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\bin\Debug\Sem2.exe.config
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\bin\Debug\Sem2.exe
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\bin\Debug\Sem2.pdb
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\obj\Debug\Sem2.csproj.AssemblyReference.cache
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\obj\Debug\Sem2.csproj.SuggestedBindingRedirects.cache
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\obj\Debug\Sem2.Form1.resources
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\obj\Debug\Sem2.Properties.Resources.resources
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\obj\Debug\Sem2.csproj.GenerateResource.cache
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\obj\Debug\Sem2.csproj.CoreCompileInputs.cache
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\obj\Debug\Sem2.exe
+D:\study\срв\progs\Новая папка\Новая папка\Sem2\obj\Debug\Sem2.pdb
